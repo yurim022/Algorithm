@@ -23,3 +23,4 @@ public class Solution {
         return false;
     }
 }
+//set 을 사용한 풀이법도 있으나 (contatins), 다음과 같이 순회하면서 찾는게 13배 더 빨랐음!
